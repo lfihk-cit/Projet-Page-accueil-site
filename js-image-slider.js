@@ -10,7 +10,7 @@ var sliderOptions=
 	boxes: 8,
 	hoverPause: 1,
 	autoAdvance: true,
-	captionOpacity: 0.3,
+	captionOpacity: 0.4,
 	captionEffect: "fade",
 	thumbnailsWrapperId: "thumbs",
 	m: false,
