@@ -5,3 +5,7 @@ Le site ne s'affiche donc pas correctement sur de nombreux supports.
 
 #SOLUTION
 Remplacer la partie en Flash par du HTML/CSS/Javascript
+
+#DEMARCHE
+Recherche, tests et comparaison de plusieurs librairies.
+Au final, la solution retenue est MenuCool Javascript Image Slider - Non jQuery (http://www.menucool.com/javascript-image-slider).
