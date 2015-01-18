@@ -11,10 +11,10 @@ Recherche, tests et comparaisons de plusieurs librairies.
 La solution retenue est MenuCool Javascript Image Slider - Non jQuery (http://www.menucool.com/javascript-image-slider).
 
 #DEPLOIEMENT
-- reperage du code Flash dans le code source de la page d'accueil
+- repèrage du code Flash dans le code source de la page d'accueil
 - remplacement de ce code par le code HTML de MenuCool Javascript Image Slider
-- declaration du CSS et Javascript dans le HEAD
-- personnalisation des parametres dans les fihciers CSS et Javascript (taille des images, transitions...)
+- déclaration du CSS et Javascript dans le HEAD
+- personnalisation des paramètres dans les fichiers CSS et Javascript (taille des images, transitions...)
 - création des images et du texte d'accueil
 
 #AVANTAGES
